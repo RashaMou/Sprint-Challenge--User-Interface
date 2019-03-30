@@ -212,6 +212,49 @@ footer nav a {
 section.top-content-about {
     margin: 20px 0 30px 0;
     border-bottom: 1px dashed black;
-    padding-left: 20px;
+    padding-left: 18px;
     padding-bottom: 20px;
+}
+
+/* section.middle-content-about {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+/* main.main-about {
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+section.middle-content-box {
+    border-bottom: 1px dashed black;
+    width: 370px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+div.middle-content-box-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.middle-content-box-row-2 {
+    margin-top: 30px;
+}
+
+img.middle-image-about {
+    margin-bottom: 20px;
+}
+
+button.middle-content-box-button {
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    margin: 20px 0 10px 0;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: large;
+}
+
+section.bottom-content-about {
+    margin: 30px 0 30px 0;
+    padding-left: 18px;
 }
