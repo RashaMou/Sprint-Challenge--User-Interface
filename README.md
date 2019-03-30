@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML is HTML that conveys the meaning of the web page's content. This means that the HTML elements we use describe the specific content it wraps. An <h1> tag for example, describes the text inside the tag as a "top level heading." A <div> tag on the other hand is presentational rather than semantic: it doesn't convey anything about the content and is used only for styling in CSS.
+Semantic HTML is HTML that conveys the meaning of the web page's content. This means that the HTML elements we use describe the specific content it wraps. An h1 tag for example, describes the text inside the tag as a "top level heading." A div tag on the other hand is presentational rather than semantic: it doesn't convey anything about the content and is used only for styling in CSS.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
