@@ -89,6 +89,10 @@ nav.header-nav a {
     color: black;
 }
 
+nav.header-nav a:hover {
+    color: orange;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
