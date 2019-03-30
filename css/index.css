@@ -216,16 +216,6 @@ section.top-content-about {
     padding-bottom: 20px;
 }
 
-/* section.middle-content-about {
-    display: flex;
-    flex-wrap: wrap;
-} */
-
-/* main.main-about {
-    display: flex;
-    flex-wrap: wrap;
-} */
-
 section.middle-content-box {
     border-bottom: 1px dashed black;
     width: 370px;
@@ -252,6 +242,19 @@ button.middle-content-box-button {
     border-radius: 5px;
     border: 1px solid black;
     font-size: large;
+}
+
+button.middle-content-box-button:hover {
+    animation: hover-slide 1s;
+}
+
+@keyframes hover-slide {
+    0% {
+        background: white;
+      }
+      100% {
+        background: orange;
+      }
 }
 
 section.bottom-content-about {
